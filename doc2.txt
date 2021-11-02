@@ -1,1 +1,2 @@
-Hello world from doc 2.
+Hello world from doc 2
+this is really good.
